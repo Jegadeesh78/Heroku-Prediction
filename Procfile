@@ -1,0 +1,1 @@
+web: gunicorn Annapp:app
