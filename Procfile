@@ -1,1 +1,1 @@
-web: gunicorn Annapp:app
+web: gunicorn app:app
