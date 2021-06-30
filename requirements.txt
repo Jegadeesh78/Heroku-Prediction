@@ -8,3 +8,5 @@ MarkupSafe==1.1.1
 python-dotenv==0.10.1
 Werkzeug==0.15.2
 wincertstore==0.2
+Keras==2.4.3
+tensorflow-estimator==2.5.0
